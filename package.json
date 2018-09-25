@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_angularjs",
+  "version": "1.0.0",
+  "description": "This is the initial package for installing the depedencies",
+  "main": "AccountController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajeev Sirohi",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
